@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="MariaDB" uuid="d6f4e39f-cff3-4c4e-8e87-aceac5dbba6f">
+    <data-source source="LOCAL" name="db2151016@infodb.ansan.ac.kr" uuid="d6f4e39f-cff3-4c4e-8e87-aceac5dbba6f">
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mariadb://infodb.ansan.ac.kr:3306/db2151016</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="Test DB (Mongo - Jpark)" uuid="346f4770-01b0-40b7-b706-8607a445b58e">
+    <data-source source="LOCAL" name="Test DB" uuid="346f4770-01b0-40b7-b706-8607a445b58e">
       <driver-ref>mongo</driver-ref>
       <synchronize>true</synchronize>
       <configured-by-url>true</configured-by-url>

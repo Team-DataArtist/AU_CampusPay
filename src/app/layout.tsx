@@ -1,9 +1,8 @@
 import React from "react";
-import '@/app/globals.css';
+import '@/styles/globals.css';
 import AuthProvider from "@/context/AuthProvider";
 import type {Metadata} from 'next'
 import Script from "next/script";
-import TopNavbar from "@/components/nav/Navbar";
 import { Gothic_A1 } from "next/font/google";
 
 const gothic = Gothic_A1({

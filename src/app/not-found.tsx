@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import PreviousButton from "@/components/ui/Button/PreviousButton";
+import PreviousButton from "@/_components/ui/Button/PreviousButton";
 
 export default function NotFound() {
     return (
